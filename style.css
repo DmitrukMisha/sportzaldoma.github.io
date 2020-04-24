@@ -820,7 +820,9 @@ img[tabindex="0"]:focus ~ * {
 #pic3{
 	width: 100%;
 }
-
+#pic6{
+	width: 100%;
+}
 #ContentText1{
 	width: 100%;
 	font: 5vw/5vw 'Russo One', sans-serif;
